@@ -84,6 +84,7 @@ int main()
     else
     {
         cout<<"Invalid input"<<endl;
+		cout<<"you are not clever"<<endl;
     }
     ptr->Show();
     delete ptr;
